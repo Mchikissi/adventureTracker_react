@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "id": "ad9b",
+      "cityName": "Kiambu",
+      "country": "Kenya",
+      "emoji": "🇰🇪",
+      "date": "2024-05-15T07:48:53.878Z",
+      "notes": "fdss",
+      "position": {
+        "lat": "-1.111952592223852",
+        "lng": "37.06375122070313"
+      }
+    },
+    {
+      "id": "d5c5",
+      "cityName": "Nairobi",
+      "country": "Kenya",
+      "emoji": "🇰🇪",
+      "date": "2024-05-15T07:49:08.652Z",
+      "notes": "ewww",
+      "position": {
+        "lat": "-1.2811737395587102",
+        "lng": "36.82685852050782"
+      }
+    }
+  ]
+}
